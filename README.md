@@ -4,7 +4,7 @@ https://www.coursera.org/learn/python-statistics-financial-analysis
 
 These labs are super basic, but still are a good refresher on the topic. Note that these labs are not graded and thus do not count toward passing the course.
 
-The course agenda is as follows:
+The course topics are as follows:
 
 1. Visualizing and Munging Stock Data
 2. Random variables and distribution
