@@ -1,4 +1,6 @@
-#### Labs from the `Python and Statistics for Financial Analysis` course from The Hong Kong University of Science and Technology provided by Coursera.
+Labs from the __Python and Statistics for Financial Analysis__ course from The Hong Kong University of Science and Technology taught by Xuhu Wan, Associate Professor, Department of Information Systems, Business Statistics and Operations Management, and provided by Coursera.
+
+https://www.coursera.org/learn/python-statistics-financial-analysis
 
 These labs are super basic, but still are a good refresher on the topic.
 
