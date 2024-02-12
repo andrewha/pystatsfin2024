@@ -1,1 +1,3 @@
+#### Sampling and Inference
 
+In financial analysis, we always infer the real mean return of stocks, or equity funds, based on the historical data of a couple years. This situation is in line with a core part of statistics - Statistical Inference - which we also base on sample data to infer the population of a target variable.In this module, you are going to understand the basic concept of statistical inference such as population, samples and random sampling. In the second part of the module, we shall estimate the range of mean return of a stock using a concept called confidence interval, after we understand the distribution of sample mean.We will also testify the claim of investment return using another statistical concept - hypothesis testing.
