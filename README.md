@@ -2,7 +2,7 @@ Labs from the __Python and Statistics for Financial Analysis__ course taught by 
 
 https://www.coursera.org/learn/python-statistics-financial-analysis
 
-These labs are super basic, but still are a good refresher on the topic. Note that these labs are not graded and thus do not count toward passing the course.
+These labs are super basic, but still are a good refresher on the topics covered. Note that these labs are not graded and thus do not count toward passing the course.
 
 The course topics are as follows:
 
